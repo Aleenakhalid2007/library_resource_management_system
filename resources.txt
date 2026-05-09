@@ -1,0 +1,155 @@
+1|Book|Clean Code|Robert Martin|Software Engineering|1|9780132350884|Prentice Hall|464|
+2|Book|The Pragmatic Programmer|Andrew Hunt|Software Engineering|1|9780135957059|Addison Wesley|352|
+3|Book|Design Patterns|Erich Gamma|Software Engineering|1|9780201633610|Addison Wesley|395|
+4|Book|Refactoring|Martin Fowler|Software Engineering|1|9780201485677|Addison Wesley|448|
+5|Book|Code Complete|Steve McConnell|Software Engineering|1|9780735619678|Microsoft Press|960|
+6|Book|Introduction to Algorithms|Thomas Cormen|Computer Science|1|9780262033848|MIT Press|1312|
+7|Book|Computer Networks|Andrew Tanenbaum|Networking|1|9780132126953|Pearson|960|
+8|Book|Operating System Concepts|Abraham Silberschatz|Operating Systems|1|9781118063330|Wiley|976|
+9|Book|Database System Concepts|Abraham Silberschatz|Databases|1|9780073523323|McGraw Hill|1376|
+10|Book|Artificial Intelligence|Stuart Russell|Artificial Intelligence|1|9780136042594|Pearson|1152|
+11|Book|Deep Learning|Ian Goodfellow|Artificial Intelligence|1|9780262035613|MIT Press|800|
+12|Book|Python Crash Course|Eric Matthes|Programming|1|9781593279288|No Starch|544|
+13|Book|Effective Modern C Plus Plus|Scott Meyers|Programming|1|9781491903995|OReilly|334|
+14|Book|C Plus Plus Primer|Stanley Lippman|Programming|1|9780321714114|Pearson|976|
+15|Book|Head First Java|Kathy Sierra|Programming|1|9780596009205|OReilly|720|
+16|Book|JavaScript The Good Parts|Douglas Crockford|Programming|1|9780596517748|OReilly|176|
+17|Book|Eloquent JavaScript|Marijn Haverbeke|Programming|1|9781593279509|No Starch|472|
+18|Book|Learning SQL|Alan Beaulieu|Databases|1|9780596520830|OReilly|384|
+19|Book|Compilers Principles Techniques and Tools|Alfred Aho|Computer Science|1|9780321486813|Pearson|1000|
+20|Book|Modern Operating Systems|Andrew Tanenbaum|Operating Systems|1|9780133591620|Pearson|1136|
+21|Book|The Mythical Man Month|Frederick Brooks|Project Management|1|9780201835953|Addison Wesley|336|
+22|Book|Peopleware|Tom DeMarco|Project Management|1|9780321934116|Addison Wesley|264|
+23|Book|Cracking the Coding Interview|Gayle McDowell|Interview Preparation|1|9780984782857|CareerCup|706|
+24|Book|Grokking Algorithms|Aditya Bhargava|Computer Science|1|9781617292231|Manning|256|
+25|Book|Computer Organization and Design|David Patterson|Computer Architecture|1|9780128201091|Morgan Kaufmann|800|
+26|EBook|You Dont Know JS Yet|Kyle Simpson|Programming|1|5.400000|PDF|https://example.com/ebooks/you-dont-know-js-yet|1|
+27|EBook|Fluent Python|Luciano Ramalho|Programming|1|8.200000|EPUB|https://example.com/ebooks/fluent-python|1|
+28|EBook|The Linux Command Line|William Shotts|Operating Systems|1|6.100000|PDF|https://example.com/ebooks/the-linux-command-line|1|
+29|EBook|Hands On Machine Learning|Aurelien Geron|Artificial Intelligence|1|9.700000|PDF|https://example.com/ebooks/hands-on-machine-learning|1|
+30|EBook|System Design Interview|Alex Xu|Software Engineering|1|4.800000|PDF|https://example.com/ebooks/system-design-interview|1|
+31|EBook|Machine Learning Yearning|Andrew Ng|Artificial Intelligence|1|2.300000|PDF|https://example.com/ebooks/machine-learning-yearning|1|
+32|EBook|Think Python|Allen Downey|Programming|1|3.500000|PDF|https://example.com/ebooks/think-python|1|
+33|EBook|Automate the Boring Stuff|Al Sweigart|Programming|1|7.100000|PDF|https://example.com/ebooks/automate-the-boring-stuff|1|
+34|EBook|Learning React|Alex Banks|Web Development|1|4.400000|EPUB|https://example.com/ebooks/learning-react|1|
+35|EBook|HTML and CSS|Jon Duckett|Web Development|1|6.900000|PDF|https://example.com/ebooks/html-and-css|1|
+36|EBook|The DevOps Handbook|Gene Kim|DevOps|1|7.700000|PDF|https://example.com/ebooks/the-devops-handbook|1|
+37|EBook|Site Reliability Engineering|Betsy Beyer|DevOps|1|8.000000|PDF|https://example.com/ebooks/site-reliability-engineering|1|
+38|EBook|Docker Deep Dive|Nigel Poulton|DevOps|1|3.600000|EPUB|https://example.com/ebooks/docker-deep-dive|1|
+39|EBook|Kubernetes Up and Running|Kelsey Hightower|DevOps|1|5.200000|PDF|https://example.com/ebooks/kubernetes-up-and-running|1|
+40|EBook|Data Intensive Applications|Martin Kleppmann|Databases|1|6.500000|PDF|https://example.com/ebooks/data-intensive-applications|1|
+41|EBook|Computer Security|William Stallings|Cybersecurity|1|9.300000|PDF|https://example.com/ebooks/computer-security|1|
+42|EBook|Web Application Security|Andrew Hoffman|Cybersecurity|1|3.900000|PDF|https://example.com/ebooks/web-application-security|1|
+43|EBook|Practical Malware Analysis|Michael Sikorski|Cybersecurity|1|8.600000|PDF|https://example.com/ebooks/practical-malware-analysis|1|
+44|EBook|Fundamentals of Database Systems|Ramez Elmasri|Databases|1|7.200000|EPUB|https://example.com/ebooks/fundamentals-of-database-systems|1|
+45|EBook|Computer Graphics|Donald Hearn|Computer Graphics|1|5.800000|PDF|https://example.com/ebooks/computer-graphics|1|
+46|EBook|Game Programming Patterns|Robert Nystrom|Programming|1|4.100000|PDF|https://example.com/ebooks/game-programming-patterns|1|
+47|EBook|Networking All in One|Doug Lowe|Networking|1|6.300000|PDF|https://example.com/ebooks/networking-all-in-one|1|
+48|EBook|Cloud Computing Concepts|Thomas Erl|Cloud Computing|1|4.700000|PDF|https://example.com/ebooks/cloud-computing-concepts|1|
+49|EBook|Practical Statistics for Data Scientists|Peter Bruce|Data Science|1|3.400000|EPUB|https://example.com/ebooks/practical-statistics-for-data-scientists|1|
+50|EBook|Natural Language Processing|Jacob Eisenstein|Data Science|1|6.000000|PDF|https://example.com/ebooks/natural-language-processing|1|
+51|Book|To Kill a Mockingbird|Harper Lee|Fiction|1|9780061120084|Lippincott|324|
+52|Book|1984|George Orwell|Fiction|1|9780451524934|Signet|328|
+54|Book|Pride and Prejudice|Jane Austen|Fiction|1|9780141439518|Penguin|432|
+56|Book|Brave New World|Aldous Huxley|Fiction|1|9780060085239|Harper|288|
+59|Book|The Hitchhiker's Guide to the Galaxy|Douglas Adams|Fiction|1|9780345391803|Ballantine|193|
+60|Book|Crime and Punishment|Fyodor Dostoevsky|Fiction|1|9780143039990|Penguin|670|
+61|Book|One Hundred Years of Solitude|Gabriel Garcia Marquez|Fiction|1|9780061120015|Harper|417|
+62|Book|Moby Dick|Herman Melville|Fiction|1|9780142437247|Penguin|544|
+63|Book|Anna Karenina|Leo Tolstoy|Fiction|1|9780199232765|Oxford|875|
+64|Book|The Alchemist|Paulo Coelho|Fiction|1|9780061233846|Harper|224|
+65|Book|The Road|Cormac McCarthy|Fiction|1|9780307387899|Knopf|287|
+66|Book|Dune|Frank Herbert|Fiction|1|9780441172719|Ace|688|
+67|Book|The Handmaid's Tale|Margaret Atwood|Fiction|1|9780385490818|Doubleday|395|
+68|Book|Fahrenheit 451|Ray Bradbury|Fiction|1|9781451673266|Simon Schuster|249|
+69|Book|Of Mice and Men|John Steinbeck|Fiction|1|9780141185033|Penguin|107|
+70|Book|The Old Man and the Sea|Ernest Hemingway|Fiction|1|9780684801223|Scribner|127|
+71|Book|Wuthering Heights|Emily Bronte|Fiction|1|9780141439556|Penguin|448|
+72|Book|Jane Eyre|Charlotte Bronte|Fiction|1|9780141441146|Penguin|624|
+73|Book|Middlemarch|George Eliot|Fiction|1|9780141439549|Penguin|896|
+74|Book|The Brothers Karamazov|Fyodor Dostoevsky|Fiction|1|9780374528379|Farrar Straus|957|
+75|Book|Beloved|Toni Morrison|Fiction|1|9781400033416|Knopf|324|
+76|Book|Sapiens|Yuval Noah Harari|Non-Fiction|1|9780062316097|Harper|512|
+77|Book|Educated|Tara Westover|Non-Fiction|1|9780399590504|Scribner|352|
+78|Book|The Immortal Life of Henrietta Lacks|Rebecca Skloot|Non-Fiction|1|9780375522207|Random House|393|
+79|Book|Into the Wild|Jon Krakauer|Non-Fiction|1|9780385486805|Doubleday|207|
+80|Book|The Body Keeps the Score|Bessel van der Kolk|Non-Fiction|1|9780670785933|Viking|464|
+81|Book|Thinking Fast and Slow|Daniel Kahneman|Non-Fiction|1|9780374533557|Farrar Straus|512|
+82|Book|Outliers|Malcolm Gladwell|Non-Fiction|1|9780316017930|Little Brown|309|
+83|Book|Guns Germs and Steel|Jared Diamond|Non-Fiction|1|9780393317558|Norton|496|
+84|Book|The Tipping Point|Malcolm Gladwell|Non-Fiction|1|9780316346627|Little Brown|301|
+86|Book|Born a Crime|Trevor Noah|Non-Fiction|1|9780399588172|Spiegel Grau|304|
+87|Book|When Breath Becomes Air|Paul Kalanithi|Non-Fiction|1|9780812988406|Random House|352|
+88|Book|The Glass Castle|Jeannette Walls|Non-Fiction|1|9780743247535|Scribner|288|
+89|Book|Quiet|Susan Cain|Non-Fiction|1|9780307352156|Crown|560|
+90|Book|The Power of Habit|Charles Duhigg|Non-Fiction|1|9780679603856|Random House|416|
+91|Book|Bad Blood|John Carreyrou|Non-Fiction|1|9780393634649|Norton|476|
+92|Book|The Sixth Extinction|Elizabeth Kolbert|Non-Fiction|1|9780805092998|Henry Holt|336|
+93|Book|Becoming|Michelle Obama|Non-Fiction|1|9781524763169|Crown|656|
+94|Book|I Know Why the Caged Bird Sings|Maya Angelou|Non-Fiction|1|9780345514400|Ballantine|304|
+95|Book|In Cold Blood|Truman Capote|Non-Fiction|1|9780679745587|Random House|366|
+96|Book|The Devil in the White City|Erik Larson|Non-Fiction|1|9780375725691|Crown|464|
+98|Book|Unbroken|Laura Hillenbrand|Non-Fiction|1|9780399505089|Random House|528|
+99|Book|The New Jim Crow|Michelle Alexander|Non-Fiction|1|9781595586438|New Press|290|
+100|Book|Say Nothing|Patrick Radden Keefe|Non-Fiction|1|9780385521734|Doubleday|688|
+101|Book|A Brief History of Time|Stephen Hawking|Science and Technology|1|9780553380163|Bantam|256|
+102|Book|The Gene|Siddhartha Mukherjee|Science and Technology|1|9780684601727|Scribner|608|
+103|Book|The Innovators|Walter Isaacson|Science and Technology|1|9781476708690|Simon Schuster|560|
+104|Book|Zero to One|Peter Thiel|Science and Technology|1|9780804139298|Crown Business|224|
+105|Book|The Code Book|Simon Singh|Science and Technology|1|9780385495325|Doubleday|416|
+106|Book|The Selfish Gene|Richard Dawkins|Science and Technology|1|9780199291151|Oxford|360|
+107|Book|Surely You're Joking Mr. Feynman|Richard Feynman|Science and Technology|1|9780393316049|Norton|512|
+108|Book|The Structure of Scientific Revolutions|Thomas Kuhn|Science and Technology|1|9780226458083|University of Chicago|224|
+109|Book|Chaos|James Gleick|Science and Technology|1|9780143113454|Penguin|531|
+110|Book|The Emperor of All Maladies|Siddhartha Mukherjee|Science and Technology|1|9780201959134|Scribner|704|
+111|Book|Astrophysics for People in a Hurry|Neil deGrasse Tyson|Science and Technology|1|9780393609394|Norton|224|
+112|Book|The Elegant Universe|Brian Greene|Science and Technology|1|9780375708114|Vintage|448|
+113|Book|Life 3.0|Max Tegmark|Science and Technology|1|9780385539432|Knopf|640|
+114|Book|The Innovator's Dilemma|Clayton Christensen|Science and Technology|1|9780062060716|Harper Business|368|
+118|Book|How the Mind Works|Steven Pinker|Science and Technology|1|9780393318487|Norton|660|
+120|Book|Being Mortal|Atul Gawande|Non-Fiction|1|9780805084863|Henry Holt|464|
+141|Book|The Diary of a Young Girl|Anne Frank|History and Biography|1|9780553296982|Bantam|352|
+142|Book|Long Walk to Freedom|Nelson Mandela|History and Biography|1|9780316769174|Little Brown|630|
+143|Book|The Wright Brothers|David McCullough|History and Biography|1|9781451642651|Simon Schuster|448|
+144|Book|Alexander Hamilton|Ron Chernow|History and Biography|1|9780062300546|Penguin|848|
+145|Book|Leonardo da Vinci|Walter Isaacson|History and Biography|1|9781595908643|Simon Schuster|624|
+146|Book|Steve Jobs|Walter Isaacson|History and Biography|1|9781451648546|Simon Schuster|656|
+147|Book|Team of Rivals|Doris Kearns Goodwin|History and Biography|1|9780743235921|Simon Schuster|944|
+149|Book|Cleopatra|Stacy Schiff|History and Biography|1|9780316019249|Little Brown|336|
+151|Book|Caesar|Adrian Goldsworthy|History and Biography|1|9780300094862|Yale|604|
+152|Book|Genghis Khan and the Making of the Modern World|Jack Weatherford|History and Biography|1|9780609809952|Crown|576|
+153|Book|The Silk Roads|Peter Frankopan|History and Biography|1|9781620402597|Bloomsbury|544|
+154|Book|Churchill|Roy Jenkins|History and Biography|1|9780374122683|Farrar Straus|1056|
+156|Book|Napoleon|Andrew Roberts|History and Biography|1|9780393060522|Norton|544|
+157|Book|Helter Skelter|Vincent Bugliosi|History and Biography|1|9780393634631|Norton|672|
+158|Book|Midnight in Chernobyl|Adam Higginbotham|History and Biography|1|9780393634631|Norton|496|
+159|Book|The Splendid and the Vile|Erik Larson|History and Biography|1|9780385543582|Doubleday|544|
+160|Book|Dead Wake|Erik Larson|History and Biography|1|9780307408266|Crown|496|
+161|Book|Atomic Habits|James Clear|Self-Help|1|9780735211292|Avery|320|
+162|Book|The 7 Habits of Highly Effective People|Stephen Covey|Self-Help|1|9780743269513|Free Press|432|
+163|Book|How to Win Friends and Influence People|Dale Carnegie|Self-Help|1|9780671027032|Simon Schuster|320|
+164|Book|Man's Search for Meaning|Viktor Frankl|Self-Help|1|9780807014271|Beacon Press|165|
+165|Book|The Subtle Art of Not Giving a F*ck|Mark Manson|Self-Help|1|9780062641549|Harper|368|
+166|Book|Deep Work|Cal Newport|Self-Help|1|9780316235630|Grand Central|296|
+167|Book|Grit|Angela Duckworth|Self-Help|1|9781594205064|Scribner|415|
+168|Book|Mindset|Carol Dweck|Self-Help|1|9780345472328|Ballantine|304|
+169|Book|The 48 Laws of Power|Robert Greene|Self-Help|1|9780140280530|Penguin|544|
+170|Book|Rich Dad Poor Dad|Robert Kiyosaki|Self-Help|1|9780984725403|Plata|336|
+171|Book|The Psychology of Money|Morgan Housel|Self-Help|1|9780857197689|Harriman House|352|
+172|Book|Can't Hurt Me|David Goggins|Self-Help|1|9781544512273|Lioncrest|488|
+173|Book|Start With Why|Simon Sinek|Self-Help|1|9781591846444|Portfolio|256|
+174|Book|Ikigai|Hector Garcia|Self-Help|1|9780143130741|Penguin|368|
+175|Book|The Miracle Morning|Hal Elrod|Self-Help|1|9780979019967|Miracle Morning|224|
+176|Book|Meditations|Marcus Aurelius|Religion and Philosophy|1|9780140449334|Penguin|240|
+177|Book|The Republic|Plato|Religion and Philosophy|1|9780140449135|Penguin|416|
+178|Book|Thus Spoke Zarathustra|Friedrich Nietzsche|Religion and Philosophy|1|9780140449495|Penguin|368|
+179|Book|The Art of War|Sun Tzu|Religion and Philosophy|1|9781590307114|Pax Romana|273|
+180|Book|The Bhagavad Gita|Anonymous|Religion and Philosophy|1|9780140447392|Penguin|256|
+181|Book|The Quran|Various Translations|Religion and Philosophy|1|9780199540341|Oxford|560|
+182|Book|The Bible|Various Translations|Religion and Philosophy|1|9780195288369|Oxford|1408|
+184|Book|The Tao Te Ching|Laozi|Religion and Philosophy|1|9780140449920|Penguin|320|
+185|Book|Beyond Good and Evil|Friedrich Nietzsche|Religion and Philosophy|1|9780140449235|Penguin|304|
+186|Book|Siddhartha|Hermann Hesse|Religion and Philosophy|1|9780140177664|Penguin|152|
+187|Book|The Prophet|Kahlil Gibran|Religion and Philosophy|1|9780394401119|Knopf|96|
+188|Book|Being and Time|Martin Heidegger|Religion and Philosophy|1|9780061575532|Harper|544|
+189|Book|The Power of Now|Eckhart Tolle|Religion and Philosophy|1|9781577314806|New World Library|236|
